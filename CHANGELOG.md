@@ -1,6 +1,16 @@
 # Change Log
 ## [Unreleased]
 
+## [1.4.0] - 2026-05-10
+
+Hove fork — first release on [open-vsx.org](https://open-vsx.org/extension/hovecapital/night-owl-black-hove).
+
+- Rebrands extension as `hovecapital.night-owl-black-hove`
+- Renames theme labels to `Night Owl Black (Hove)` and `Night Owl Black (Hove, No Italics)` to differentiate from upstream in the theme picker
+- Bumps `engines.vscode` baseline from `^1.30.0` to `^1.74.0`
+- Adds explicit MIT LICENSE
+- Theme colors are unchanged from upstream `1.3.1`
+
 ## [1.3.1] - 2022-07-22
 
 - Removes deprecated properties
@@ -47,7 +57,8 @@
 
 - Initial release
 
-[Unreleased]: https://github.com/thedavej/night-owl-black/compare/v1.3.1...HEAD
+[Unreleased]: https://github.com/hovecapital/night-owl-black/compare/v1.4.0...HEAD
+[1.4.0]: https://github.com/hovecapital/night-owl-black/compare/v1.3.1...v1.4.0
 [1.3.1]: https://github.com/thedavej/night-owl-black/compare/v1.3.0...v1.3.1
 [1.3.0]: https://github.com/thedavej/night-owl-black/compare/v1.2.1...v1.3.0
 [1.2.1]: https://github.com/thedavej/night-owl-black/compare/v1.2.0...v1.2.1
